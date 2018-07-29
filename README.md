@@ -2,7 +2,7 @@
 Nagios/Icinga SAP HANA Check
 
 # Autor dawdad
-# www.dawdad.de
+-- www.dawdad.de
 # SAP HANA Icinga Check (Database Online)
 
 Implementation Guide:
